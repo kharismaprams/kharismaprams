@@ -155,7 +155,7 @@
 <p align="centre">
  
 <!-- ACCOUNT STAT -->  
-<a href="https://github.com/kharismaprams/kharismaprams"> <img align='left' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='80"'>
+<a href="https://github.com/kharismaprams/kharismaprams"> <img align='left' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='30"'>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharismaprams&theme=radical&hide_border=true)](https://github.com/kharismaprams" alt="Kharis's GitHub Stats Graph"/> <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='200"'>
 </a>
 <!-- ACCOUNT STAT -->  
