@@ -187,7 +187,9 @@
   <div align="center">
   <h3><b>🥨Stay connected with me👈</b></h3>
   </div>
+  
 <p align="center">
+  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/941502ca-794c-4664-aaf1-693d5956f3b8' width='100"'>
 <a href="https://www.linkedin.com/in/KHARISMAPRAMS/" target="_blank">
   <img align="center" alt="Kharisma Prams | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
@@ -202,6 +204,7 @@
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/kharisma718">
     <img align="center" alt="Kharisma Prams | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/c2df1342-d12a-4285-bc1c-a50dd0f23ee2' width='100"'>
 </a> &nbsp;&nbsp;
 <p>
   
