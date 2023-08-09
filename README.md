@@ -170,7 +170,7 @@
 
 <!-- ACCOUNT STAT -->  
 <a href="https://github.com/kharismaprams/kharismaprams"> 
-<img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/77b34313-8625-45f4-b00f-1a2a54d1e949' width='100"'>
+<img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/77b34313-8625-45f4-b00f-1a2a54d1e949' width='80"'>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharismaprams&theme=radical&hide_border=true)](https://github.com/kharismaprams" alt="Kharis's GitHub Stats Graph"/> 
 </a>
 <!-- ACCOUNT STAT -->  
