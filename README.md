@@ -246,20 +246,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
-        
+
+<!-- SPOTIFY -->  
 ### 🎧 Spotify Playing
+<!-- SPOTIFY -->  
+ <p align="center">
+<a href="https://github.com/kharismaprams/kharismaprams"> 
+  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/c2df1342-d12a-4285-bc1c-a50dd0f23ee2' width='100"'>
+  <img align="center" src="https://novatorem.bgstatic.vercel.app/api/spotify"/> 
+    <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/c2df1342-d12a-4285-bc1c-a50dd0f23ee2' width='100"'>
+</a></center>
+</p>
+<!-- SPOTIFY -->  
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/31ekjcdfgmrqus553cdubo7ct2ma))
+
 <br>
-
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
-        
 
 <!--
 **kharismaprams/kharismaprams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
