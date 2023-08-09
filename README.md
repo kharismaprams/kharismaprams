@@ -8,7 +8,7 @@
 <img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='200"'>
 
 ### 💻 &nbsp;About Me 
-
+- 🧑‍💻 &nbsp; Also known as Kharis and I'm Fulltime researcher.
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🧑‍🚀 &nbsp; Also learning solidity, smart contract and blockchain.
 - 🎓 &nbsp; Studying Computer Science & Engineering at University of Indonesia.
