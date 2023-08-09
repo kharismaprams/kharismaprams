@@ -6,6 +6,7 @@
 
 ## I'm Kharisma Prams  
 <img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='200"'>
+
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
