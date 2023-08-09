@@ -7,7 +7,10 @@
 ## I'm Kharisma Prams  
 <img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='200"'>
 
-### 🧟 &nbsp;About Me 
+<img align='left' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/941502ca-794c-4664-aaf1-693d5956f3b8' width='150"'> 🧟 &nbsp;About Me  
+
+
+   
 - 🧑‍💻 &nbsp; Also known as Kharis and I'm Fulltime researcher.
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🧑‍🚀 &nbsp; Also learning solidity, smart contract and blockchain.
@@ -169,9 +172,6 @@
 <a href="https://github.com/kharismaprams/kharismaprams"> 
 <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/77b34313-8625-45f4-b00f-1a2a54d1e949' width='100"'>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharismaprams&theme=radical&hide_border=true)](https://github.com/kharismaprams" alt="Kharis's GitHub Stats Graph"/> 
-
-   <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/941502ca-794c-4664-aaf1-693d5956f3b8' width='100"'>
- 
 </a>
 <!-- ACCOUNT STAT -->  
 
