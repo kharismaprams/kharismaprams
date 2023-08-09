@@ -7,7 +7,7 @@
 ## I'm Kharisma Prams  
 <img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='200"'>
 
-### 💻 &nbsp;About Me 
+### 🧟 &nbsp;About Me 
 - 🧑‍💻 &nbsp; Also known as Kharis and I'm Fulltime researcher.
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🧑‍🚀 &nbsp; Also learning solidity, smart contract and blockchain.
@@ -145,7 +145,6 @@
 
 <br>
 
- <hr>
 
 
 
@@ -154,7 +153,18 @@
 
 <br>
 <p align="centre">
- 
+ <br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+
+<br>
+
+### 📱 Account Statistic
+
+<br>
+
 <!-- ACCOUNT STAT -->  
 <a href="https://github.com/kharismaprams/kharismaprams"> 
 <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50"'>
@@ -165,9 +175,12 @@
 <!-- ACCOUNT STAT -->  
 
 
- <br> 
+ <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+        
  
- <hr>
  
  <br>
 
@@ -219,7 +232,29 @@
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+ <br>
 
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+        
+### 🎧 Spotify Playing
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/31ekjcdfgmrqus553cdubo7ct2ma))
+<br>
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+        
 
 <!--
 **kharismaprams/kharismaprams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
