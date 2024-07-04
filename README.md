@@ -16,7 +16,31 @@
 - 🧑‍🚀 &nbsp; Also learning solidity, smart contract and blockchain.
 - 🎓 &nbsp; Studying Computer Science & Engineering at University of Indonesia.
 
-
+  <div align="center">
+  <h3><b>🥨Stay connected with me👈</b></h3>
+  </div>
+  
+<p align="center">
+    
+  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50'>
+<a href="https://www.linkedin.com/in/KHARISMAPRAMS/" target="_blank">
+  <img align="center" alt="Kharisma Prams | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/KharismaPramS" target="_blank">
+  <img align="center" alt="Kharisma Prams | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/khariszone/" target="_blank">
+  <img align="center" alt="Kharisma Prams | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:kharismaprams@gmail.com" >
+  <img align="center" alt="Kharisma Prams | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/kharisma718">
+    <img align="center" alt="Kharisma Prams | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/83909685-9186-4cc8-a660-64dfab11cfa4' width='200"'>
+    
+</a> &nbsp;&nbsp;
+<p>
 <br>
 
 
@@ -172,31 +196,7 @@
 <br>
 <!-- GARIS TEPI -->  
 
-  <div align="center">
-  <h3><b>🥨Stay connected with me👈</b></h3>
-  </div>
-  
-<p align="center">
-    
-  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50'>
-<a href="https://www.linkedin.com/in/KHARISMAPRAMS/" target="_blank">
-  <img align="center" alt="Kharisma Prams | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/KharismaPramS" target="_blank">
-  <img align="center" alt="Kharisma Prams | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/khariszone/" target="_blank">
-  <img align="center" alt="Kharisma Prams | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:kharismaprams@gmail.com" >
-  <img align="center" alt="Kharisma Prams | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/kharisma718">
-    <img align="center" alt="Kharisma Prams | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/83909685-9186-4cc8-a660-64dfab11cfa4' width='200"'>
-    
-</a> &nbsp;&nbsp;
-<p>
+
 
   
 <div align=center>
