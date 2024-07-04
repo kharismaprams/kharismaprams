@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-## I'm Kharisma Prams  
+## I'm Kharisma Prams  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/83909685-9186-4cc8-a660-64dfab11cfa4' width='50'>
 <img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='400'>
 
 🧟 &nbsp;About Me  
@@ -36,10 +36,11 @@
   <img align="center" alt="Kharisma Prams | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/kharisma718">
-    <img align="center" alt="Kharisma Prams | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/83909685-9186-4cc8-a660-64dfab11cfa4' width='200"'>
-    
-</a> &nbsp;&nbsp;
+    <img align="center" alt="Kharisma Prams | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" /> 
+</a> <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50'>
+
+
+&nbsp;&nbsp; 
 <p>
 
 
