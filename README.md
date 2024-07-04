@@ -7,7 +7,7 @@
 ## I'm Kharisma Prams  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/83909685-9186-4cc8-a660-64dfab11cfa4' width='50'>
 <img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='400'>
 
-🧟 &nbsp;About Me  
+🧟 &nbsp;About Me  <img align='center' src='https://github-production-user-asset-6210df.s3.amazonaws.com/37227788/259292434-77b34313-8625-45f4-b00f-1a2a54d1e949.gif' width='50'>
 
 
 - 🧑‍💻 &nbsp; Also known as Kharis and I'm Fulltime researcher.
