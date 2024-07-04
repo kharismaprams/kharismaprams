@@ -10,7 +10,6 @@
 🧟 &nbsp;About Me  
 
 
-   
 - 🧑‍💻 &nbsp; Also known as Kharis and I'm Fulltime researcher.
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🧑‍🚀 &nbsp; Also learning solidity, smart contract and blockchain.
