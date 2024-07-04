@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ## I'm Kharisma Prams  
-<img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='0.1'>
+<img align='right' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/ad7c7311-b2d1-4063-8a75-a29c221b2f7f' width='0.01'>
 
 🧟 &nbsp;About Me  
 
@@ -178,7 +178,7 @@
   
 <p align="center">
     
-  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='200"'>
+  <img align='center' src='https://github.com/kharismaprams/kharismaprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50'>
 <a href="https://www.linkedin.com/in/KHARISMAPRAMS/" target="_blank">
   <img align="center" alt="Kharisma Prams | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
@@ -197,11 +197,10 @@
     
 </a> &nbsp;&nbsp;
 <p>
-  
-<br>
+
   
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍Profile Visitor Count📍</b></h3>
 </div>
     
 <!-- retro visitor counter -->  
